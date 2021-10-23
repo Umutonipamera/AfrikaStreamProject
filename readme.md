@@ -1,0 +1,1 @@
+This is a repo that contains both the client and the server.
