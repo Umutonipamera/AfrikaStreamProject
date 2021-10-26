@@ -1,7 +1,7 @@
-#Afrikastream_Assessment
+# Afrikastream_Assessment
 
 
-##Introduction
+## Introduction
 
 This is a repo that contains both the client and the server sides.
 
