@@ -38,15 +38,18 @@ This is a repo of a project that consist of three parts:
    * To run a server:
        
        
-          ```  node index.js  ```
+       ```bash
+          node index.js
+          ```
+
           
  
    * To run reactjs
          
-         
-```bash
-npm start
-```
+           
+      ```bash
+         npm start
+        ```
          
  
  
