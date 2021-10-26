@@ -39,7 +39,7 @@ This is a repo of a project that consist of three parts:
    
        
        ```bash
-         node index.js
+          node index.js
          ```
        
        
