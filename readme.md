@@ -31,7 +31,7 @@ This is a repo of a project that consist of three parts:
  To run this project you will need to:
  
  * Fork this project
- * Clone the repository in your terminal git clone [url goes here]
+ * Clone the repository in your terminal ``` git clone [url goes here] ```
  * Using Visual Studio Code, open the folder with the cloned repository
  * open a new terminal to run the project
  
