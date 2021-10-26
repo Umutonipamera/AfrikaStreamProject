@@ -35,13 +35,13 @@ This is a repo of a project that consist of three parts:
  * Using Visual Studio Code, open the folder with the cloned repository
  * open a new terminal to run the project
  
-       * To run a server:
+   * To run a server:
        
        
           ```node index.js```
           
  
-       * To run reactjs
+   * To run reactjs
  
           ``` npm start ```
  
