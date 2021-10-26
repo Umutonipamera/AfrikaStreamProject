@@ -38,12 +38,12 @@ This is a repo of a project that consist of three parts:
    * To run a server:
        
        
-          ```node index.js```
+          ```  node index.js  ```
           
  
    * To run reactjs
  
-          ``` npm start ```
+          ```  npm start  ```
  
  
  
