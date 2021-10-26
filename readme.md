@@ -1,4 +1,27 @@
+#Afrikastream_Assessment
+
+
+##Introduction
+
 This is a repo that contains both the client and the server sides.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   A user will receive 'text' asks open registration page.  
   Once a user reaches to registration page will need to put in his/her  phone number  to register and number should be valid ( 10 digits + 2 for country  code).
