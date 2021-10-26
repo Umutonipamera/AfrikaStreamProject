@@ -7,7 +7,7 @@ This is a repo of a project that consist of three parts:
 
 * Client side  which is  made of reactjs and it is  about what a user will see and  interact with 
 
-     * TO register/signup
+     * To register/signup
      * To ulpoad a video as a file
      
 * Server side is made of express nodejs and it is about the logic behind of this project that deals with
@@ -33,7 +33,7 @@ This is a repo of a project that consist of three parts:
  * Fork this project
  * Clone the repository in your terminal ``` git clone [url goes here] ```
  * Using Visual Studio Code, open the folder with the cloned repository
- * open a new terminal to run the project
+ * Open a new terminal to run the project
  
    * To run a server:
    
