@@ -43,7 +43,10 @@ This is a repo of a project that consist of three parts:
  
    * To run reactjs
  
-          ```  npm start  ```
+          ``` 
+          npm start 
+          
+          ```
  
  
  
