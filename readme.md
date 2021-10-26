@@ -36,11 +36,13 @@ This is a repo of a project that consist of three parts:
  * open a new terminal to run the project
  
    * To run a server:
-       
+   
        
        ```bash
-          node index.js
-          ```
+         node index.js
+         ```
+       
+       
          
 
           
