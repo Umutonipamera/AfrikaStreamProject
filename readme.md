@@ -12,7 +12,7 @@ This is a repo of a project that consist of three parts:
      
 * Server side is made of express nodejs and it is about the logic behind of this project that deals with
      * Returning the random code to the usser to verify his/her phonenumber
-     * Making sure if a code number match with a phone number.
+     * Making sure if a code written by user match with a phone number.
      * Returning a link to the user that can be used to play uploaded video.
      
  * A simple database for storing data and retrive data when needed.
@@ -36,6 +36,7 @@ This is a repo of a project that consist of three parts:
  * open a new terminal to run the project
  
  ```node index.js to start a server```
+ 
  ``` npm start to run reactjs```
  
  
