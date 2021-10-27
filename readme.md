@@ -23,6 +23,7 @@ This is a repo of a project that consist of three parts:
  * npm 6.14.8
  * nodejs  v12.18.2
  * reactjs  17.0.2
+ * axios
  * yarn
  * express
  * Visual Studio Code
